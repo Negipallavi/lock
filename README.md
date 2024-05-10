@@ -6,21 +6,21 @@
 ## Usage 
 lock:-
 - Enter an element.
-- enter your password.
+- Enter your password.
 
 ## overview
 - It is a C program designed project of lock.
 - In this, you can create your password and use it.
 
 ## Features
-* enter tha password you want.
+* Enter tha password you want.
 * Then you can use it for lock. 
 
 ## How to use?
-- open the program in the preferrd c compiler.
+- Open the program in the preferrd c compiler.
 - **compile** and run the program.
 - **enter** the password.
-- the process will display the lock system in which you enter your password.
+- The process will display the lock system in which you enter your password.
 
 ## author
 - pallavi negi
