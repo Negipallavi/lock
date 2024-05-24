@@ -29,4 +29,4 @@ lock:-
 - Email: pallavinegi2503@gmail.com
 - github: [my github profile]
   (https://github.com/Negipallavi )
-- linkedln: https://www.linkedin.com/in/pallavi-negi-25p/overlay/about-this-profile/
+- linkedln: (https://www.linkedin.com/in/pallavi-negi-25p)
